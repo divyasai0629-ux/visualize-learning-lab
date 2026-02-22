@@ -1,73 +1,35 @@
-# Welcome to your Lovable project
+# Visualize Learning Lab – Interactive DSA Visualizer
 
-## Project info
+**Live Demo:** https://visualize-learning-lab-git-main-divyasai0629-uxs-projects.vercel.app/
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 Overview
+The **Visualize Learning Lab** is an interactive platform built to help students and developers visualize the dynamic logic of Data Structures and Algorithms. By turning abstract code into real-time animations, this tool makes mastering DSA more intuitive and engaging.
 
-## How can I edit this code?
+## 🛠️ Features
+### 1. Sorting Algorithms
+Visualize how elements are compared and swapped in real-time.
+* **Algorithms:** Quick Sort, Merge Sort, Bubble Sort, Selection Sort, and Insertion Sort.
+* **Visual Cues:** Color-coded bars for comparing (orange), swapping (red), and sorted (green) states.
 
-There are several ways of editing your application.
+### 2. Linked List Visualizers
+Understand pointer manipulation through step-by-step animations.
+* **Types:** Singly Linked List, Doubly Linked List, and Circular Linked List.
+* **Operations:** Visualize node insertion and deletion logic.
 
-**Use Lovable**
+### 3. Advanced Structures
+* **Stack:** Visualize LIFO (Last-In-First-Out) operations.
+* **Graphs:** Interactive node and edge representations for traversal logic.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 💻 Tech Stack
+* **Frontend:** React, TypeScript, Vite
+* **Styling:** Tailwind CSS (Shadcn/UI)
+* **Deployment:** Vercel
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📖 How to Use
+1. Select a category (Sorting or Data Structures) from the sidebar.
+2. Use the **Generate New Data** button to create a random dataset.
+3. Adjust the **Animation Speed** to follow the logic at your own pace.
+4. Click **Start** to witness the algorithm in action!
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 👩‍💻 About the Developer
+Developed by **Divyasai**, a Computer Science and Engineering student focused on building practical tools to simplify complex technical concepts.
