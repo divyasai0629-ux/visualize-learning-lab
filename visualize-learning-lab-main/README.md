@@ -1,6 +1,6 @@
 # Visualize Learning Lab – Interactive DSA Visualizer
 
-**Live Demo:** https://visualize-learning-lab-git-main-divyasai0629-uxs-projects.vercel.app/
+**Live Demo:** https://visualize-learning-lab.vercel.app/
 
 ## 🚀 Overview
 The **Visualize Learning Lab** is an interactive platform built to help students and developers visualize the dynamic logic of Data Structures and Algorithms. By turning abstract code into real-time animations, this tool makes mastering DSA more intuitive and engaging.
